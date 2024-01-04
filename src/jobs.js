@@ -1,7 +1,7 @@
 const JOBS = [
   {
     id: 1,
-    title: "Frontend Dveloper",
+    title: "Frontend Developer",
     location: "Johannesburg,South Africa",
     salary: "R45 000 p/m",
     posted: "Mar 3,2023",
